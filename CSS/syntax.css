@@ -1,27 +1,13 @@
 /* TARGETING ELEMENTS / TAGS */
 
-h2{
+span{
 
-    font-size: 26px;
-
-}
-
-#content-header{
-
-    font-size: 18px;
-    color: green;
+    color: blue;
 
 }
 
 span{
 
-    display: block;
-    color: blue;
-
-}
-
-.deck{
-
-    color: coral;
+    color: darkorchid;
 
 }
