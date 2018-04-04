@@ -1,8 +1,6 @@
-p{
-
-    color: red !important;
-}
-#main-content p{
-
+p, span, a, ul{
     color: green;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Arial;
 }
