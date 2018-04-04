@@ -1,13 +1,19 @@
 /* TARGETING ELEMENTS / TAGS */
 
-span{
-
-    color: blue;
-
+body{
+    color: red;
 }
 
-span{
+div{
+    color: green;
+}
 
-    color: darkorchid;
+p{
 
+    color: coral;
+}
+
+a{
+    color: red;
+    
 }
