@@ -1,34 +1,27 @@
 /* TARGETING ELEMENTS / TAGS */
 
-p{
+h2{
 
-    font-size: 16px;
-    color: green;
+    font-size: 26px;
 
 }
 
-a{
+#content-header{
 
-    text-decoration: underline;
-    color: darkcyan;
+    font-size: 18px;
+    color: green;
 
 }
 
 span{
 
-    text-transform: uppercase;
+    display: block;
+    color: blue;
 
 }
 
-h1{
+.deck{
 
-    font-size: 36px;
-
-}
-
-div{
-
-    width: 100%;
-    background-color: darkorchid;
+    color: coral;
 
 }
