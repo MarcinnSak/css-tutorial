@@ -1,6 +1,27 @@
+/* Style of all P tags
+
+* Author: Marcin Sak
+* Course: CSS
+* Date: 04.04.2018
+
+*/
+
 p{
 
     font-size: 18px;
     color: darkcyan;
+
+}
+#header p{
+
+    font-size: 24px;
+
+}
+
+/* Style all the header tags */
+
+h1{
+
+    font-size: 44px;
 
 }
