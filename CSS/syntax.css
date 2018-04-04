@@ -1,13 +1,8 @@
+p{
+
+    color: red !important;
+}
 #main-content p{
 
-    color: red;
-}
-p{
-    color: black;
-}
-.test{
     color: green;
-}
-b{
-    color: purple;
 }
