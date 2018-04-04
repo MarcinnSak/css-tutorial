@@ -1,19 +1,13 @@
-/* TARGETING ELEMENTS / TAGS */
+#main-content p{
 
-body{
     color: red;
 }
-
-div{
+p{
+    color: black;
+}
+.test{
     color: green;
 }
-
-p{
-
-    color: coral;
-}
-
-a{
-    color: red;
-    
+b{
+    color: purple;
 }
