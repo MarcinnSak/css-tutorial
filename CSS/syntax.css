@@ -1,13 +1,8 @@
-span[class~="deck"]{
+a:hover{
 
     color: purple;
-
 }
-div[id]{
+#main-content:hover{
 
-    background-color: darkorchid;
-}
-a[href^="https"]{
-
-    color: darkgoldenrod;
+    background-color: red;
 }
