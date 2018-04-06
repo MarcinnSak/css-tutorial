@@ -1,4 +1,9 @@
-article:nth-of-type(2n + 1){
+article.featured-content{
 
-    background-color: grey;
+    background-color: red;
+}
+
+div.featured-content{
+
+    background-color: blue;
 }
